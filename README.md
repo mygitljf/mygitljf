@@ -2,6 +2,8 @@
 
 <div align="center">
 
+### Systems, Performance & GPU Programming
+
 ![GitHub Stats](./profile/stats.svg)
 
 ### ⚙️ Languages, Toolchains & Performance Tools
@@ -17,7 +19,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA%20Nsight-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/NCU-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nsight%20Compute%20%28NCU%29-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 </div>
