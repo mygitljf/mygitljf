@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=mygitljf&layout=compact&theme=transparent&hide_border=true&hide=html,css&locale=cn
+          options: username=mygitljf&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=cn
           path: profile/top-langs.svg
           token: ${{ secrets.GRS_PAT }}
 
