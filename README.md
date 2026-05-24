@@ -1,8 +1,6 @@
-## Hi there 👋 I'm lianjinfeng
+## Hi there 👋
 
 <div align="center">
-
-### Systems, Performance & GPU Programming
 
 ![GitHub Stats](./profile/stats.svg)
 
