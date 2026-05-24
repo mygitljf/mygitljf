@@ -1,9 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm lianjinfeng
 
 <div align="center">
 
 ![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](./profile/top-langs.svg)
+### ⚙️ Languages, Toolchains & Performance Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20Nsight-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NCU-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 
 </div>
