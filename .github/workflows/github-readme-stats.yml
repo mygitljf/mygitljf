@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=mygitljf&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&locale=cn
+          options: username=mygitljf&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&locale=en&custom_title=ljf%27s%20Github%20Stats
           path: profile/stats.svg
           token: ${{ secrets.GRS_PAT }}
 

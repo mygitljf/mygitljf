@@ -2,7 +2,7 @@
 
 ![GitHub Stats](./profile/stats.svg)
 
-### ⚙️ Languages, Toolchains & Performance Tools
+### ⚙️ Languages, Debugging & Performance Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -14,6 +14,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/PDB-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA%20Nsight-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Nsight%20Compute%20%28NCU%29-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
