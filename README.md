@@ -23,3 +23,13 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+
+### 🌱 Open Source Contributions
+
+<p align="left">
+  <a href="https://github.com/llvm/llvm-project/pull/199104">
+    <img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="LLVM logo" width="48" align="left" />
+  </a>
+  <a href="https://github.com/llvm/llvm-project/pull/199104"><strong>LLVM</strong></a><br />
+  Fixed a clang-format assertion crash in Objective-C parsing.
+</p>
