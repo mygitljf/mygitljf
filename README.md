@@ -2,6 +2,12 @@
 
 ![GitHub Stats](./profile/stats.svg)
 
+### 🌱 Open Source Contributions
+
+| Project | PR |
+| --- | --- |
+| <a href="https://github.com/llvm/llvm-project"><img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="LLVM logo" width="48" /></a><br /><a href="https://github.com/llvm/llvm-project"><strong>LLVM</strong></a> | [#199104](https://github.com/llvm/llvm-project/pull/199104)<br />[#202105](https://github.com/llvm/llvm-project/pull/202105) |
+
 ### ⚙️ Languages, Debugging & Performance Tools
 
 <p align="left">
@@ -22,14 +28,4 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-### 🌱 Open Source Contributions
-
-<p align="left">
-  <a href="https://github.com/llvm/llvm-project/pull/199104">
-    <img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="LLVM logo" width="48" align="left" />
-  </a>
-  <a href="https://github.com/llvm/llvm-project/pull/199104"><strong>LLVM</strong></a><br />
-  Fixed a clang-format assertion crash in Objective-C parsing.
 </p>
