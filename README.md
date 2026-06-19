@@ -6,7 +6,7 @@
 
 | Project | PR |
 | --- | --- |
-| <a href="https://github.com/llvm/llvm-project"><img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="LLVM logo" width="48" /></a><br /><a href="https://github.com/llvm/llvm-project"><strong>LLVM</strong></a> | [#199104](https://github.com/llvm/llvm-project/pull/199104)<br />[#202105](https://github.com/llvm/llvm-project/pull/202105) |
+| <a href="https://github.com/llvm/llvm-project"><img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="LLVM logo" width="48" /></a><br /><a href="https://github.com/llvm/llvm-project"><strong>LLVM</strong></a> | [#199104](https://github.com/llvm/llvm-project/pull/199104)<br />[#202105](https://github.com/llvm/llvm-project/pull/202105) <br />[#199112](https://github.com/llvm/llvm-project/pull/199112) <br />[#199098](https://github.com/llvm/llvm-project/pull/199098) |
 
 ### ⚙️ Languages, Debugging & Performance Tools
 
