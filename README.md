@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Everything should be as simple as possible.
+
 ![GitHub Stats](./profile/stats.svg)
 
 ### 🌱 Open Source Contributions
