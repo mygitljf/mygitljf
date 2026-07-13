@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ljf's Github Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 1173, Total PRs: 50, Total Issues: 1, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  : 1200, Total PRs: 52, Total Issues: 1, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 186.33180381260217;
+        stroke-dashoffset: 182.35793094534694;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >4</text>
+      >6</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >50</text>
+      >52</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
